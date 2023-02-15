@@ -60,7 +60,7 @@ export default class App extends LitElement {
           <igc-ripple></igc-ripple>
         </igc-button>
         <igc-button variant="flat" @click="${() => Router.go('/view3')}" class="button">
-          View 3
+          View 4
           <igc-ripple></igc-ripple>
         </igc-button>
       </igc-navbar>
